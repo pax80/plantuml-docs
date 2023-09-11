@@ -1,10 +1,6 @@
 @startuml
 '!include baseline.puml
 
-component service1 [
-
-this is the first
-defined service
-]
+component service1
 
 @enduml
