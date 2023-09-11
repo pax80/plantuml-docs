@@ -1,0 +1,10 @@
+@startuml
+ 
+rectangle example [
+
+this is a simple 
+building bloc
+
+
+]
+@enduml
